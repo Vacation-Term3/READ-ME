@@ -4,7 +4,7 @@ Start date: July 14th, 2020
 
 My goal for this vacation are:
 
-- Learn and build an app (Koltin)
+- Learn and build an app (Flutter)
 - Build my own portfolio website
 - Learn and create unique logo design 20+
 - Learn and build a website using PHP
